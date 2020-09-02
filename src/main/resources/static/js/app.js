@@ -18,3 +18,5 @@
 //getElementById("myBtn").disabled = true;
 //
 //}
+
+//document.getElementById("myBtn").style.visibility = "hidden";
